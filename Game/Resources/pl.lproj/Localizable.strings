@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CatchTheBall
+
+  Created by Sebastian Kotarski on 28/02/2021.
+  Copyright © 2021 Sebastian Kotarski. All rights reserved.
+*/
+"how_to_start_game_description" = "Unieś obie dłonie ponad głowę, aby rozpocząć grę";
+"stop_button" = "STOP";
+"game_state_running_status" = "Złapanych piłek: %@\nStraconych: %@";

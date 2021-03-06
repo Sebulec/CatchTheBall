@@ -1,0 +1,3 @@
+"how_to_start_game_description" = "Lift you both hands to start playing";
+"stop_button" = "STOP";
+"game_state_running_status" = "Catched balls: %@\nMissed: %@";
