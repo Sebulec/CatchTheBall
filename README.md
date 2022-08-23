@@ -18,5 +18,4 @@ MoCap is available on A12 & later
  * [x] Adjust values
  * [x] Fix translation
 
-##[![Youtube video](https://youtu.be/eGq1SJBspK0)](https://youtu.be/eGq1SJBspK0)
-
+## [![Youtube video](http://img.youtube.com/vi/eGq1SJBspK0/0.jpg)](http://www.youtube.com/watch?v=eGq1SJBspK0 "DEMO")
