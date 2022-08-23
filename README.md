@@ -17,3 +17,6 @@ MoCap is available on A12 & later
  * [x] Add button for arms up
  * [x] Adjust values
  * [x] Fix translation
+
+## Youtube video:
+https://youtu.be/eGq1SJBspK0
